@@ -46,6 +46,13 @@ will be legally challenged on the grounds of intellectual misappropriation.
 
 ---
 
-## 📎 License
 
-MIT License (non-commercial use only recommended while IP is being defended)  
+
+
+## Legal Notice
+
+> **This work is proprietary and was developed by the original creator under no corporate affiliation. Unauthorized reproduction, redistribution, or incorporation into derivative systems—whether academic, commercial, or experimental—without explicit permission is strictly prohibited. All rights reserved.**
+
+## Licensing
+Not licensed under MIT or any open-source framework.  
+Access to the methodology or its components is **subject to negotiated agreement only.**
